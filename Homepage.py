@@ -12,28 +12,28 @@ contributors = [
         "profile": "https://energyanalysis.lbl.gov/people/akash-kailas-patil",
         "title": "Postdoctoral Researcher, Energy Analysis Division",
         "email": "apatil2@lbl.gov",
-        "photo": "https://raw.githubusercontent.com/apatil210/Nick/main/Akashpic2.jpg",
+        "photo": "https://raw.githubusercontent.com/NickKarki/LDRD/main/Akashpic2.jpg",
     },
     {
         "name": "Jibran Zuberi",
         "profile": "https://eta.lbl.gov/people/jibran-zuberi",
         "title": "Energy/Environmental Policy Research Scientist/Engineer, Energy Analysis Division",
         "email": "mjszuberi@lbl.gov",
-        "photo": "https://raw.githubusercontent.com/apatil210/Nick/main/Jibran.jpg",
+        "photo": "https://raw.githubusercontent.com/NickKarki/LDRD/main/Jibran.jpg",
     },
     {
         "name": "Prakash Rao",
         "profile": "https://eta.lbl.gov/people/prakash-rao",
         "title": "Head, Building & Industrial Applications Department, Building & Industrial Energy Systems Division",
         "email": "prao@lbl.gov",
-        "photo": "https://raw.githubusercontent.com/apatil210/Nick/main/Prakash.jpg",
+        "photo": "https://raw.githubusercontent.com/NickKarki/LDRD/main/Prakash.jpg",
     },
     {
         "name": "Unique Karki",
         "profile": "https://eta.lbl.gov/people/unique-karki",
         "title": "Technology Researcher II · Building & Industrial Energy Systems Division",
         "email": "ukarki@lbl.gov",
-        "photo": "https://raw.githubusercontent.com/apatil210/Nick/main/Unique.jpg",
+        "photo": "https://raw.githubusercontent.com/NickKarki/LDRD/main/Unique.jpg",
     },
 ]
 
