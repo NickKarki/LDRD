@@ -500,21 +500,21 @@ cards = [
         "Industry data",
         "Process Library",
         "Browse breakouts of US energy demand for several industrial processes",
-        "https://panel1industrypy-mclqilubcthpuscxcsvqcr.streamlit.app/",
+        "https://panel1industrypy-mhir99zh9brflqkwsuwdku.streamlit.app/",
     ),
     (
         col2,
         "Unit operation data",
         "Operation Insights",
         "Explore mapped unit operations, their functional role in processes, and their energy demand",
-        "https://panel2unitoperationspy-prmw9sgjcch6ewfdh3p6ea.streamlit.app/",
+        "https://panel2unitoperationspy-mnb5dpc6xdrc32ltnxoesg.streamlit.app/",
     ),
     (
         col3,
         "NAICS coverage",
         "Sector Representation",
         "Review how the developed energy dataset maps across manufacturing sectors classified by NAICS codes",
-        "https://panel3naicspy-jhfwvgpvwrgd9kco5gy7mh.streamlit.app/",
+        "https://panel3naicspy-datbfychvcp3qex9dg3rng.streamlit.app/",
     ),
 ]
 
@@ -524,7 +524,7 @@ st.markdown(
         <h2 class="section-title">Data Resources</h2>
         <p class="resource-intro">Access the core datasets and coverage views that support the analytical framework.</p>
         <p class="resource-intro">
-            <a href="https://github.com/apatil210/Nick/raw/refs/heads/main/2022-Energy-Demand-in-US-Industry.xlsx" target="_blank" rel="noopener noreferrer">
+            <a href="https://raw.githubusercontent.com/NickKarki/LDRD/main/2022-Energy-Demand-in-US-Industry.xlsx" target="_blank" rel="noopener noreferrer">
                 Click here to download the spreadsheet for the 2022 manufacturing energy data
             </a>
         </p>
